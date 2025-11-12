@@ -1,0 +1,9 @@
+{
+	"name": "databricks-realstate",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f298fd31-349c-4b73-8ebe-7036041a8d45",
+		"tenantId": "024205b1-451e-4979-8ee9-2e77d8796a32"
+	}
+}
