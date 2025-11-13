@@ -38,7 +38,7 @@ Silver → Transformed and structured data ready for analysis
 
 
 
-##⚙️ Steps and Implementation
+## ⚙️ Steps and Implementation
 
 1️⃣ Configure Azure Resources
 
@@ -171,7 +171,7 @@ This ensures continuous data updates without manual intervention.
 
 
 
-##🧾 Technologies Used
+## 🧾 Technologies Used
 
 Tool	Purpose
 🟦 Azure Data Factory	Pipeline orchestration & automation
@@ -182,7 +182,7 @@ Tool	Purpose
 
 
 
-##🧠 Key Learnings
+## 🧠 Key Learnings
 Throughout this project, I learned how to:
 
 Design a layered data lake architecture (Bronze, Silver, Gold);
@@ -195,7 +195,7 @@ Automate pipelines and manage data triggers in Azure.
 
 
 
-##💡 Future Improvements
+## 💡 Future Improvements
 
 Add a Gold layer for analytics-ready data
 
